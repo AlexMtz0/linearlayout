@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">linearlayout</string>
+    <string name="dame_un_n_mero">Dame un número</string>
+    <string name="dame_un_segundo_numero">Dame un segundo numero</string>
+    <string name="resta">Resta</string>
+    <string name="suma">Suma</string>
+</resources>
